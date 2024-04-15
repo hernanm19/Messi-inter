@@ -1,5 +1,5 @@
 .cuerpo {
-  background-color: rgb(0, 0, 114);
+  background: url("https://i.pinimg.com/originals/e3/3f/92/e33f92c87697b75934864ad2d87e4d79.jpg");
 }
 .cabecera {
   display: flex;
@@ -11,7 +11,7 @@
   display: flex;
   justify-content: center;
 }
-.ul{
+.ul {
   display: flex;
   justify-content: center;
 }
